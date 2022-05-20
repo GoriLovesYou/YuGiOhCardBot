@@ -2,6 +2,10 @@
 
 
 
+Notice: `u/_CX-MD_` has taken control of the account u/YuGiOhCardBot, the associated gmail, and the subreddit r/YuGiOhCardBot, and will be relaunching the bot. Please thank them and enjoy.
+
+
+
 YuGiOhCardBot, a Reddit bot for Yu-Gi-Oh! card searches
 
 
