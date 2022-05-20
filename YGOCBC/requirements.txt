@@ -1,0 +1,17 @@
+certifi==2021.10.8
+cffi==1.15.0
+chardet==4.0.0
+decorator==5.1.1
+idna==3.3
+lxml==4.7.1
+misaka==2.1.1
+praw==7.5.0
+prawcore==2.3.0
+pycparser==2.21
+requests==2.27.1
+six==1.16.0
+update-checker==0.18.0
+urllib3==1.26.8
+pyshorteners==1.0.1
+beautifulsoup4==4.10.0
+google==3.0.0
